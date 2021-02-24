@@ -28,7 +28,7 @@ O projeto foi feito utilizando as seguintes tecnologias
 
 ```bash
   #clonar o repositorio
-  $ git clone https://gitlab.com/cookbookteam/appcookbook.git
+  $ git clone https://github.com/milenahikari/appCookBook.git
 
   #entrar na pasta do projeto
   $ cd appcookbook
