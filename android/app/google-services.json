@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "727444475213",
+    "firebase_url": "https://lilivros-ae842.firebaseio.com",
+    "project_id": "lilivros-ae842",
+    "storage_bucket": "lilivros-ae842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727444475213:android:e5eeeb2c9310084d1d3b04",
+        "android_client_info": {
+          "package_name": "com.appcookbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727444475213-kgo7lr5sm25vhgb0jc98k4m0poi62h20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appcookbook",
+            "certificate_hash": "6a2c72ffc8b084e6fc5f4969168e9e66db3ae818"
+          }
+        },
+        {
+          "client_id": "727444475213-g61ab9u1mbtgttdc5fu071ggqcgo6r2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx1kuVheONEsLZck6AN-e0JdjvqELCe78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727444475213-g61ab9u1mbtgttdc5fu071ggqcgo6r2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727444475213:android:1a9dcd5c856ee7831d3b04",
+        "android_client_info": {
+          "package_name": "com.cookbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727444475213-2dq9hl93gfk4vudjq1i09o995qm82hbi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cookbook",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "727444475213-hr407et2bbk8jvgifmrtu2hl771274kl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cookbook",
+            "certificate_hash": "0829c730ca081285e2b14df4ef1c40ba87c499e5"
+          }
+        },
+        {
+          "client_id": "727444475213-g61ab9u1mbtgttdc5fu071ggqcgo6r2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx1kuVheONEsLZck6AN-e0JdjvqELCe78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727444475213-g61ab9u1mbtgttdc5fu071ggqcgo6r2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
